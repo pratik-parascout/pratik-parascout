@@ -13,18 +13,7 @@
 
 ---
 
-## 🎮 Player Profile
 
-```text
-┌──────────────────────────────────────────────┐
-│  NAME      : Pratik Kumar                    │
-│  CLASS     : Full-Stack Wizard (Lv. growing)  │
-│  WEAPONS   : Python • React • SQL • Node     │
-│  SIDE QUEST: Learning to build with AI 🤖     │
-│  POWER-UP  : Chai / coffee (pick one)        │
-│  WEAKNESS  : "Quick 5-minute fix"            │
-└──────────────────────────────────────────────┘
-```
 
 ## 🧪 What's cooking in my lab
 
