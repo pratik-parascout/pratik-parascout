@@ -21,18 +21,6 @@
 - ♟️ **Side projects:** a chess trainer powered by Stockfish WASM, a habit tracker, small single-file browser tools
 - 💬 **Ask me about:** React + Vite, FastAPI/Flask, Node + Sequelize, SQL Server, socket.io
 
-## 🧩 Selected work
-
-| Project | What it does | Stack |
-|---|---|---|
-| **Offline Ballot Scanning & Live Results** | Scans, validates and tallies ballots offline, with live results for a bar association election | Python, MSSQL |
-| **Question Bank Platform** | Multi-tenant question bank with roles, tenants and a roadmap for exams | React, Vite, Node, Express, Sequelize, SQL Server |
-| **School Bus Tracker** | Polls GPS data and notifies parents as the bus approaches | Supabase, Deno edge functions |
-| **Chess Trainer** | Training app with an in-browser engine | React, Stockfish WASM |
-| **Query Tracking System** | Service requests with engineer visits, photo + signature sign-off | Design stage |
-
-> 📌 Replace these with links to your pinned repos (`[Project](https://github.com/pratik-parascout/REPO)`). Pin your 4–6 best repos on your profile too.
-
 ## 💻 Tech stack
 
 **Languages**
